@@ -1,0 +1,26 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    color: rgb(211, 8, 103);
+    background-color: rgb(215, 205, 226);
+    text-align: center;
+}
+
+p {
+    color: rgb(211, 45, 8);
+    background-color: rgb(215, 205, 226);
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+}
+
+body {
+    background-image: url(/Users/igor/Desktop/repos/odin-recipes/img/background.jpg);
+  }
