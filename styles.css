@@ -5,12 +5,14 @@ h1 {
     color: rgb(211, 8, 103);
     background-color: rgb(215, 205, 226);
     text-align: center;
+    width: auto;
 }
 
 p {
     color: rgb(211, 45, 8);
     background-color: rgb(215, 205, 226);
     text-align: center;
+    width: auto;
 }
 
 .center {
